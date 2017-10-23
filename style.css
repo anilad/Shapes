@@ -1,0 +1,18 @@
+article{
+    background: #4600FF;
+    width: 140px;
+    height: 140px;
+    margin: 10px;
+}
+
+#circle{
+    border-radius: 100px;    
+}
+
+#triangle{
+
+}
+
+#pacman{
+    border-radius: 100px;
+}
